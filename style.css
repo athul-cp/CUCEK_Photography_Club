@@ -92,3 +92,20 @@ header.scroll {
     
 }
 
+.about{
+    display: flex;
+    padding: 2em;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.section__one,
+.section__two{
+    margin: 2em;
+}
+
+
+
+
